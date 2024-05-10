@@ -15,7 +15,7 @@ For our CSCI 375 final project we decided to work on the Packard Power Rankings 
 
 |  Bergen | Clayton | Average |
 ---|---|---|
-| 35 | 39 | 37 |
+| 35/45 | 39/45 | 37 |
 
 
 ## How to install packages and run the app
@@ -37,11 +37,11 @@ python manage.py runserver
 ```bash
 git clone <this_repository>
 cd <this_repository>
-$ bash run.sh
-$ python manage.py migrate
+bash run.sh
+python manage.py migrate
 # Depending on the above command you might have to run another 
 # command to update the files with python manage.py makemigrations
-$ python manage.py runserver 0.0.0.0:8000
+python manage.py runserver 0.0.0.0:8000
 ```
 
 ## How to run test
