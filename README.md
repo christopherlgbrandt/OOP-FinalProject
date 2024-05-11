@@ -17,8 +17,8 @@ For our CSCI 375 final project we decided to work on the Packard Power Rankings 
 
 ### Judge Grading
 
-|  Bergen | Clayton | Average |
----|---|---|
+| Jeremy Bergen | Clayton Johnson | Average |
+|---|---|---|
 | 35/45 | 39/45 | 37 |
 
 ### Group Self-Grading
