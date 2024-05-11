@@ -25,7 +25,17 @@ For our CSCI 375 final project we decided to work on the Packard Power Rankings 
 
 |  Section | Self-Grade | Justification |
 ---|---|---|
-| ... | 39/45 | ... |
+| Use of Fundamental OOD Concepts | 5/5 | The whole project is object oriented with Classes, Inheritance, Getters and Setters |
+| Use of at least 3 Design Patterns | 2/5 | ... |
+| Testing for Correctness | 3/5 | Test coverage wasn't great, but there were a lot of files that weren't tested by the previous developers. |
+| Documentations | 5/5 | We documented every new change and why that change was added. The documentation was done in Microsoft Teams and on a Word document. |
+| Software Management | 5/5 | How we managed the software was through Microsoft teams with weekly meetings where individuals disclosed their progress and future developments. GitHub was also really good for managing who did what on the website as the tasks were given through issues. |
+| Teamwork | 5/5 | The team communicated well and used one another for assistance when needed. There wasn't any case where one teammate's work collided with another's. |
+| Project Requirements | 3/5 | The project was more than adequately challenging for a Sophomore-Junior student. Due to its complexions, there were a few setbacks which resulted in poor execution of fixing/improving the website. |
+| Team Presentation | 5/5 | Each member of the team did a great job presenting visually and orally. Each member contributed a fair share to the presentation. |
+| 4+1 Views | 4/5 | We had the 4+1 views completed, although there are couple that can be confusing and might not fall align with what's in the textbook. It was also difficult to come up with proper 4+1 diagrams due to the scope of the project. |
+| Bonus: Above and Beyond | 6/10 | The project was very much like the real-world, so it provided everyone with hands-on experience. We worked directly with a client. Deployment was required to display the developments on the actual website. A database was used aswell. |
+| Overall Score | 38/45 | N/A |
 
 ### Individual Self Grading
 Chris Brandt - 75% - I decided to give myself this grade on the project because while I really did try to work hard and make sure that I helped my teammates wherever I could, I still in large part failed to make a big contribution on the project overall. Looking back on it I realized that I jumped into the project far to fast without asking enough questions, if I had known the state of this project at the start of the semester I would have heavily tried to push us in a different direction. However, I think that this project really turned out to really be something that helped me learn a lot. I saw how much harder it becomes to communicate between a larger group, and how important it is to fully understand the scope of the project when taking on someone elses work. Overall though I worked hard creating those memory profiles, and doing what I could to optimize how many allocations each python file made. Along with this I believe that me and my teammates did a good job on the student showcase presentation, and that the website will be in good hands with it's future developers.
