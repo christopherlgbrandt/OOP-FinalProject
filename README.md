@@ -39,6 +39,11 @@ For our CSCI 375 final project we decided to work on the Packard Power Rankings 
 ## Individual Contributions
 Chris Brandt - 75% - I decided to give myself this grade on the project because while I really did try to work hard and make sure that I helped my teammates wherever I could, I still in large part failed to make a big contribution on the project overall. Looking back on it I realized that I jumped into the project far to fast without asking enough questions, if I had known the state of this project at the start of the semester I would have heavily tried to push us in a different direction. However, I think that this project really turned out to really be something that helped me learn a lot. I saw how much harder it becomes to communicate between a larger group, and how important it is to fully understand the scope of the project when taking on someone elses work. Overall though I worked hard creating those memory profiles, and doing what I could to optimize how many allocations each python file made. Along with this I believe that me and my teammates did a good job on the student showcase presentation, and that the website will be in good hands with it's future developers.
 
+### Kyle Verbrugge
+Google Analytics: Added a code snippet to each generated HTML headers. This code snippet connects to Google Analytics which displays data on the website such as hit counters, demographics, engagement, and growth statistics.
+
+Crontab Back-Ups: Added a backup system on the Lightsail server so that situations like what happened this semester can be easily avoidable. There are two types of backups: temporary weekly backups and permanent (unless deleted) monthly backups.
+
 ## How to install packages and run the app
 
 ### Using Python Environment
