@@ -25,7 +25,7 @@ For our CSCI 375 final project we decided to work on the Packard Power Rankings 
 |  Section | Self-Grade | Justification |
 ---|---|---|
 | Use of Fundamental OOD Concepts | 5/5 | The whole project is object oriented with Classes, Inheritance, Getters and Setters |
-| Use of at least 3 Design Patterns | 2/5 | ... |
+| Use of at least 3 Design Patterns | 2/5 | Design patterns were present within the project, but we could've done better to make them a more integral part of the project and presentation. |
 | Testing for Correctness | 3/5 | Test coverage wasn't great, but there were a lot of files that weren't tested by the previous developers. |
 | Documentations | 5/5 | We documented every new change and why that change was added. The documentation was done in Microsoft Teams and on a Word document. |
 | Software Management | 5/5 | How we managed the software was through Microsoft teams with weekly meetings where individuals disclosed their progress and future developments. GitHub was also really good for managing who did what on the website as the tasks were given through issues. |
@@ -39,10 +39,16 @@ For our CSCI 375 final project we decided to work on the Packard Power Rankings 
 ## Individual Contributions
 Chris Brandt - 75% - I decided to give myself this grade on the project because while I really did try to work hard and make sure that I helped my teammates wherever I could, I still in large part failed to make a big contribution on the project overall. Looking back on it I realized that I jumped into the project far to fast without asking enough questions, if I had known the state of this project at the start of the semester I would have heavily tried to push us in a different direction. However, I think that this project really turned out to really be something that helped me learn a lot. I saw how much harder it becomes to communicate between a larger group, and how important it is to fully understand the scope of the project when taking on someone elses work. Overall though I worked hard creating those memory profiles, and doing what I could to optimize how many allocations each python file made. Along with this I believe that me and my teammates did a good job on the student showcase presentation, and that the website will be in good hands with it's future developers.
 
+All contributions can be found on the showcase presentation. Below is an overview of what we all did.
+
 ### Kyle Verbrugge
 Google Analytics: Added a code snippet to each generated HTML headers. This code snippet connects to Google Analytics which displays data on the website such as hit counters, demographics, engagement, and growth statistics.
 
 Crontab Back-Ups: Added a backup system on the Lightsail server so that situations like what happened this semester can be easily avoidable. There are two types of backups: temporary weekly backups and permanent (unless deleted) monthly backups.
+
+### Chris Brandt
+
+### Bryan Bonilla
 
 ## How to install packages and run the app
 
