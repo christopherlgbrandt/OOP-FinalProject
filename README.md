@@ -1,4 +1,4 @@
-# CSCI375Team
+# OOP-FinalProject
 
 ## Packard Power Rankings Repository
 https://github.com/packardpowerrankings/packardrankings
