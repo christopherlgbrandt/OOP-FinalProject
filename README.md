@@ -37,7 +37,8 @@ For our CSCI 375 final project we decided to work on the Packard Power Rankings 
 | Overall Score | 38/45 | N/A |
 
 ## Individual Contributions
-Chris Brandt - 75% - I decided to give myself this grade on the project because while I really did try to work hard and make sure that I helped my teammates wherever I could, I still in large part failed to make a big contribution on the project overall. Looking back on it I realized that I jumped into the project far to fast without asking enough questions, if I had known the state of this project at the start of the semester I would have heavily tried to push us in a different direction. However, I think that this project really turned out to really be something that helped me learn a lot. I saw how much harder it becomes to communicate between a larger group, and how important it is to fully understand the scope of the project when taking on someone elses work. Overall though I worked hard creating those memory profiles, and doing what I could to optimize how many allocations each python file made. Along with this I believe that me and my teammates did a good job on the student showcase presentation, and that the website will be in good hands with it's future developers.
+### Chris Brandt - 75% - 
+I decided to give myself this grade on the project because while I really did try to work hard and make sure that I helped my teammates wherever I could, I still in large part failed to make a big contribution on the project overall. Looking back on it I realized that I jumped into the project far to fast without asking enough questions, if I had known the state of this project at the start of the semester I would have heavily tried to push us in a different direction. However, I think that this project really turned out to really be something that helped me learn a lot. I saw how much harder it becomes to communicate between a larger group, and how important it is to fully understand the scope of the project when taking on someone elses work. Overall though I worked hard creating those memory profiles, and doing what I could to optimize how many allocations each python file made. Along with this I believe that me and my teammates did a good job on the student showcase presentation, and that the website will be in good hands with it's future developers.
 
 All contributions can be found on the showcase presentation. Below is an overview of what we all did.
 
@@ -46,9 +47,10 @@ Google Analytics: Added a code snippet to each generated HTML headers. This code
 
 Crontab Back-Ups: Added a backup system on the Lightsail server so that situations like what happened this semester can be easily avoidable. There are two types of backups: temporary weekly backups and permanent (unless deleted) monthly backups.
 
-### Chris Brandt
 
 ### Bryan Bonilla
+
+I wasn't able to contribute much to the project as would have liked. I was trying to spend time working on improving the input validation for entering games through a csv file. What I was able to get done was just a couple of changes to the csv_import method on the entering games admin page, and I created a django test class to try to see if I was going on the right track.
 
 ## How to install packages and run the app
 
