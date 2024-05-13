@@ -52,6 +52,10 @@ Crontab Back-Ups: Added a backup system on the Lightsail server so that situatio
 
 I wasn't able to contribute much to the project as would have liked. I was trying to spend time working on improving the input validation for entering games through a csv file. What I was able to get done was just a couple of changes to the csv_import method on the entering games admin page, and I created a django test class to try to see if I was going on the right track.
 
+### Christopher Brandt
+
+I definitely didn't make as much progress as I wanted to on this project, but for my contribution I used memray to create memory profiles showing the memory usage in each python file. I then created a spreadsheat of all of these memory profiles, and used this information to help me understand the memory usage throughout the project, and direct my focus towards which files I should improve first. After this I was able to successfully reduce the memory usage in the python files throughout the project by taking out many unnecessary allocations.
+
 ## How to install packages and run the app
 
 ### Using Python Environment
